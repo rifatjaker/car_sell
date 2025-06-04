@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/car_sell/static/css/main.70dff723.css",
-    "main.js": "/car_sell/static/js/main.c707cd28.js",
+    "main.css": "/car_sell/static/css/main.1793d65a.css",
+    "main.js": "/car_sell/static/js/main.be81b24f.js",
     "static/media/bootstrap-icons.woff?": "/car_sell/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/car_sell/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/banner.jpg": "/car_sell/static/media/banner.4ee02998851c650ce8fc.jpg",
     "static/media/logo.png": "/car_sell/static/media/logo.14b84757ebae7fc1196c.png",
     "index.html": "/car_sell/index.html",
-    "main.70dff723.css.map": "/car_sell/static/css/main.70dff723.css.map",
-    "main.c707cd28.js.map": "/car_sell/static/js/main.c707cd28.js.map"
+    "main.1793d65a.css.map": "/car_sell/static/css/main.1793d65a.css.map",
+    "main.be81b24f.js.map": "/car_sell/static/js/main.be81b24f.js.map"
   },
   "entrypoints": [
-    "static/css/main.70dff723.css",
-    "static/js/main.c707cd28.js"
+    "static/css/main.1793d65a.css",
+    "static/js/main.be81b24f.js"
   ]
 }
